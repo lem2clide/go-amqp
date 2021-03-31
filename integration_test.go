@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Azure/go-amqp"
+	"github.com/lem2clide/go-amqp"
 	"github.com/Azure/go-amqp/internal/testconn"
 	"github.com/Azure/go-autorest/autorest"
 	"github.com/Azure/go-autorest/autorest/adal"
